@@ -1,8 +1,6 @@
 # Hi, I'm Renaud 👋
 
-💻 Ruby / Rails / APIs  
-🌱 Currently exploring AI-driven portfolio experiences  
-📫 How to reach me: [email](mailto:kisscoding@email.com)
+📫 How to reach me: [email](mailto:kisscoding@gmail.com)
 
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)
