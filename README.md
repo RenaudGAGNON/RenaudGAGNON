@@ -23,5 +23,5 @@
 
 ### 🔭 Currently working on
 - AI-driven portfolio interactions
-- Local assistant connected devices (IoT)
+- Video interview assessment
 - Post-quantum crypto experiments
